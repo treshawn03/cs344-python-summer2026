@@ -10,4 +10,4 @@ In future milestones, I plan to add multiple user accounts, stronger password re
 
 ## Issues or Questions
 
-The main issue I encountered was making sure the functions and loop were indented correctly. I also had to make sure I ran the Python file from the correct project folder. After fixing those issues, the program worked as expected.
+The main issue I encountered was making sure the functions and loop were indented correctly. I also had to make sure I ran the Python file from the correct project folder. After fixing those issues, the program worked as expected. 

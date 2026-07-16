@@ -38,4 +38,4 @@ while failed_attempts < max_attempts:
     failed_attempts += 1
 
     if failed_attempts == max_attempts:
-        print("Account locked. Too many failed login attempts.")
+        print("Account locked. Too many failed login attempts.") 
