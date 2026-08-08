@@ -1,0 +1,8 @@
+Alice,88
+Bob,95
+Charlie,72
+David,84
+Emma,91
+Frank,67
+Grace,100
+Henry,78
