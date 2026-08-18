@@ -1,9 +1,10 @@
+# Get the username and password from the user
 def get_login():
     username = input("Enter username: ")
     password = input("Enter password: ")
     return username, password
 
-
+# Check whether the entered credentials are correct
 def check_login(username, password):
     correct_username = "admin"
     correct_password = "python123"
@@ -13,14 +14,14 @@ def check_login(username, password):
     else:
         return False
 
-
+# Display whether the login was successful
 def display_result(success):
     if success:
         print("Login successful!")
     else:
         print("Incorrect username or password.")
 
-
+# Set the maximum number of allowed login attempts
 failed_attempts = 0
 max_attempts = 3
 
